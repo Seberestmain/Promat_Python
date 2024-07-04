@@ -14,4 +14,6 @@ data = pd.DataFrame
 ({'whoAmI':lst})
 
 data.head()
+
 # Потенциальное решение
+Будем пользоваться функцией unstack 
